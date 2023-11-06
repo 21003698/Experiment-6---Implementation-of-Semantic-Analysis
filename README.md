@@ -26,12 +26,12 @@
 *Append the identified verbs to the all_verbs list.
 *For each verb, call the get_synonyms() function to get its synonyms and store them in the synonyms_dict dictionary.
 *Print the verbs and their synonyms.
-6.Execute the main program.
 ```
+6.Execute the main program.
 
 ## Program:
 ```
-Developed By:Challa sandeep
+Developed By:Challa Sandeep
 Register No:212221240011
 ```
 ```
